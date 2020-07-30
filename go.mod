@@ -1,3 +1,3 @@
-module github.com/Applifier/go-languagecode
+module github.com/Unity-Technologies/go-languagecode
 
 go 1.12

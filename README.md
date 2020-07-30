@@ -1,7 +1,7 @@
 # go-languagecode
 
-[![CI status](https://github.com/Applifier/go-languagecode/workflows/CI/badge.svg)](https://github.com/Applifier/go-languagecode/actions)
-[![GoDoc](https://godoc.org/github.com/Applifier/go-languagecode?status.svg)](https://godoc.org/github.com/Applifier/go-languagecode)
+[![CI status](https://github.com/Unity-Technologies/go-languagecode/workflows/CI/badge.svg)](https://github.com/Unity-Technologies/go-languagecode/actions)
+[![GoDoc](https://godoc.org/github.com/Unity-Technologies/go-languagecode?status.svg)](https://godoc.org/github.com/Unity-Technologies/go-languagecode)
 
 Package `languagecode` provides utilities for representing languages in code, and handling their serializations and deserializations in a convenient way.
 
